@@ -1,9 +1,9 @@
 ---
 layout: event
-categories: 
+categories:
   - events
 links:
-title: 2015 Data Science for Social Good Projects
+title: teste 123
 description: The Eric and Wendy Schmidt Data Science for Social Good Summer Fellowship is wrapping up their third year here in Chicago. We’ll be hearing final presentations by three of their teams.
 speakers:
  - Lauren Haynes, Data Science for Social Good
@@ -11,7 +11,7 @@ speakers:
 image: /images/events/169-2015-data-science-for-social-good-projects.png
 date: 2015-08-18T18:00:00-05:00
 event_id: 169
-youtube_id: 
+youtube_id:
 agenda: https://docs.google.com/document/d/1v7zDRLb_BRhRDibqSqG_9RbAqbMA1g_imSeuV7NW1Kk/edit#
 sponsor: <a href='http://dssg.io'>Data Science for Social Good</a>
 published: true
